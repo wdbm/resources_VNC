@@ -143,6 +143,8 @@ Connect to the server using the client.
 vncviewer -via user@lxplus0132.cern.ch :2
 ```
 
+![](https://raw.githubusercontent.com/wdbm/resources_VNC/master/PPELX.png)
+
 The server can be stopped in the following way:
 
 ```Bash
